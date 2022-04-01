@@ -1,0 +1,2 @@
+# strip-intercropping_pestcontrol
+This repository contains all codes for implementing the multiscale SDM modelling framework described in Alarcón-Segura, V., Grass, I., Breustedt, G., Rohlfs, M. &amp; Tscharntke, T. (2022). Strip intercropping of wheat and oilseed rape enhances biodiversity and biological pest control in a conventionally managed farm scenario. Journal of Applied Ecology, 00, 1– 11. https://doi.org/10.1111/1365-2664.14161. Please acknowledge this paper when using the code or data outputs.
